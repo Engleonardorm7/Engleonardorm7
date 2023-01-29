@@ -1,6 +1,6 @@
-### Hi, I'm Leonardo 👋:computer: 👨‍💻
 
-<h1 align="center">Hi 👋, I'm Leonardo</h1>
+
+<h1 align="center">Hi 👋, I'm Leonardo :computer: 👨‍💻</h1>
 <h3 align="center">A passionate Backend developer from Colombia</h3>
 
 - 🔭 I’m currently working on **web development content**
