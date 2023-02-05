@@ -37,6 +37,8 @@ Passions:["web development"]
 ```
 [![Engleonardorm7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Engleonardorm7)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Engleonardorm7)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engleonardorm7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
