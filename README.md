@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **web development content**
 
-- 🌱 I’m currently learning **Backend, Flask, DJango, FastAPI**
+- 🌱 I’m currently learning **AI, Backend, Frontend, Flask, DJango, FastAPI*, React, Tailwind css*
 
-- 👯 I’m looking to collaborate on **web development Projects**
+- 👯 I’m looking to collaborate on **AI and web development Projects**
 
 - 💬 Ask me about **Python, C++, DJango, FastAPI**
 
@@ -28,10 +28,10 @@
 ### About me in code:
 ```javascript
 const Leonardo={
-Technologies:"Web",
-code: [Python, C, C++, Java],
-tools: [DJango, FastAPI],
-Passions:["web development"]
+Technologies:"AI","Web",
+code: [Python, C, C++, Java, JavaScript],
+tools: [DJango, FastAPI, React, Tailwind css],
+Passions:["web development","Artificial Intelligence"]
 }
 
 ```
