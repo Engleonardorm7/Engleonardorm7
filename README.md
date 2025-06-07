@@ -1,15 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Leonardo :computer: 👨‍💻</h1>
-<h3 align="center">A passionate Backend developer from Colombia</h3>
+<h3 align="center">A passionate AI and Backend developer</h3>
 
-- 🔭 I’m currently working on **web development content**
+- 🔭 I’m currently working on **Machine learning and web development content**
 
-- 🌱 I’m currently learning **AI, Backend, Frontend, Flask, DJango, FastAPI*, React, Tailwind css*
+- 🌱 I’m currently learning **AI, ML, Backend, Frontend, Flask, DJango, FastAPI*, React, Tailwind css*
 
 - 👯 I’m looking to collaborate on **AI and web development Projects**
 
-- 💬 Ask me about **Python, C++, DJango, FastAPI**
+- 💬 Ask me about **PyTorch, Python, C++, DJango, FastAPI, Flask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
